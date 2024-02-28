@@ -1,0 +1,5 @@
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\App-series\AppSeries\obj\Debug\net6.0\AppSeries.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\App-series\AppSeries\obj\Debug\net6.0\AppSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\App-series\AppSeries\obj\Debug\net6.0\AppSeries.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\App-series\AppSeries\obj\Debug\net6.0\AppSeries.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\App-series\AppSeries\obj\Debug\net6.0\AppSeries.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\ProjectCvsHelper\ProjectCvsHelper\bin\Debug\net6.0\ProjectCvsHelper.exe
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\ProjectCvsHelper\ProjectCvsHelper\bin\Debug\net6.0\ProjectCvsHelper.deps.json
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\ProjectCvsHelper\ProjectCvsHelper\bin\Debug\net6.0\ProjectCvsHelper.runtimeconfig.json
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\ProjectCvsHelper\ProjectCvsHelper\bin\Debug\net6.0\ProjectCvsHelper.dll
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\ProjectCvsHelper\ProjectCvsHelper\bin\Debug\net6.0\ref\ProjectCvsHelper.dll
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\ProjectCvsHelper\ProjectCvsHelper\bin\Debug\net6.0\ProjectCvsHelper.pdb
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\ProjectCvsHelper\ProjectCvsHelper\obj\Debug\net6.0\ProjectCvsHelper.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\ProjectCvsHelper\ProjectCvsHelper\obj\Debug\net6.0\ProjectCvsHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\ProjectCvsHelper\ProjectCvsHelper\obj\Debug\net6.0\ProjectCvsHelper.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\ProjectCvsHelper\ProjectCvsHelper\obj\Debug\net6.0\ProjectCvsHelper.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\ProjectCvsHelper\ProjectCvsHelper\obj\Debug\net6.0\ProjectCvsHelper.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\ProjectCvsHelper\ProjectCvsHelper\obj\Debug\net6.0\ProjectCvsHelper.dll
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\ProjectCvsHelper\ProjectCvsHelper\obj\Debug\net6.0\ref\ProjectCvsHelper.dll
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\ProjectCvsHelper\ProjectCvsHelper\obj\Debug\net6.0\ProjectCvsHelper.pdb
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\ProjectCvsHelper\ProjectCvsHelper\obj\Debug\net6.0\ProjectCvsHelper.genruntimeconfig.cache

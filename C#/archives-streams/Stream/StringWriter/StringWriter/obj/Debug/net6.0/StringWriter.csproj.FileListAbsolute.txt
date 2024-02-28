@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\StringWriter\StringWriter\bin\Debug\net6.0\StringWriter.exe
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\StringWriter\StringWriter\bin\Debug\net6.0\StringWriter.deps.json
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\StringWriter\StringWriter\bin\Debug\net6.0\StringWriter.runtimeconfig.json
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\StringWriter\StringWriter\bin\Debug\net6.0\StringWriter.dll
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\StringWriter\StringWriter\bin\Debug\net6.0\ref\StringWriter.dll
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\StringWriter\StringWriter\bin\Debug\net6.0\StringWriter.pdb
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\StringWriter\StringWriter\obj\Debug\net6.0\StringWriter.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\StringWriter\StringWriter\obj\Debug\net6.0\StringWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\StringWriter\StringWriter\obj\Debug\net6.0\StringWriter.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\StringWriter\StringWriter\obj\Debug\net6.0\StringWriter.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\StringWriter\StringWriter\obj\Debug\net6.0\StringWriter.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\StringWriter\StringWriter\obj\Debug\net6.0\StringWriter.dll
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\StringWriter\StringWriter\obj\Debug\net6.0\ref\StringWriter.dll
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\StringWriter\StringWriter\obj\Debug\net6.0\StringWriter.pdb
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\StringWriter\StringWriter\obj\Debug\net6.0\StringWriter.genruntimeconfig.cache

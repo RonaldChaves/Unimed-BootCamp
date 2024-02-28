@@ -1,0 +1,7 @@
+<h1 [class.textred]="textred" >{{ text }}</h1>
+<button (click)="click()" class="btn btn-primary">Clique aq</button>
+<input type="text" #input (keyup)="keyUpEvent(input.value)" >
+<p >{{ input.value }}</p>
+<button class="btn btn-primary" (click)="cor()" [style.backgroundColor]="bgColor">Cinza</button>
+<br>
+<app-button [btnText]="'Casa'"></app-button>

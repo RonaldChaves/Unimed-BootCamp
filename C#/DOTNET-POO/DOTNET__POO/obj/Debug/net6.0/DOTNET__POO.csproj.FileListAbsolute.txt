@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\DOTNET-POO\DOTNET__POO\bin\Debug\net6.0\DOTNET__POO.exe
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\DOTNET-POO\DOTNET__POO\bin\Debug\net6.0\DOTNET__POO.deps.json
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\DOTNET-POO\DOTNET__POO\bin\Debug\net6.0\DOTNET__POO.runtimeconfig.json
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\DOTNET-POO\DOTNET__POO\bin\Debug\net6.0\DOTNET__POO.dll
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\DOTNET-POO\DOTNET__POO\bin\Debug\net6.0\ref\DOTNET__POO.dll
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\DOTNET-POO\DOTNET__POO\bin\Debug\net6.0\DOTNET__POO.pdb
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\DOTNET-POO\DOTNET__POO\obj\Debug\net6.0\DOTNET__POO.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\DOTNET-POO\DOTNET__POO\obj\Debug\net6.0\DOTNET__POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\DOTNET-POO\DOTNET__POO\obj\Debug\net6.0\DOTNET__POO.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\DOTNET-POO\DOTNET__POO\obj\Debug\net6.0\DOTNET__POO.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\DOTNET-POO\DOTNET__POO\obj\Debug\net6.0\DOTNET__POO.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\DOTNET-POO\DOTNET__POO\obj\Debug\net6.0\DOTNET__POO.dll
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\DOTNET-POO\DOTNET__POO\obj\Debug\net6.0\ref\DOTNET__POO.dll
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\DOTNET-POO\DOTNET__POO\obj\Debug\net6.0\DOTNET__POO.pdb
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\DOTNET-POO\DOTNET__POO\obj\Debug\net6.0\DOTNET__POO.genruntimeconfig.cache

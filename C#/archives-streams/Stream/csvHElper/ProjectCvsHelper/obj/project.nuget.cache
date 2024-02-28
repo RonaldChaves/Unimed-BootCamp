@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "clD/Vp/L27izst615cBpLrwG086gfQHtRF033CucSREU4NPQEDKCpqpO4cS7/Jk5rMbR2AkHehHF0fYsfm7vnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cliente\\Desktop\\codes-dio\\m5-csharp\\archives-streams\\Stream\\csvHElper\\ProjectCvsHelper\\ProjectCvsHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cliente\\.nuget\\packages\\csvhelper\\28.0.1\\csvhelper.28.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

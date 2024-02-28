@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\LINQ-e-Arrays\Colecoes\bin\Debug\net6.0\Colecoes.exe
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\LINQ-e-Arrays\Colecoes\bin\Debug\net6.0\Colecoes.deps.json
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\LINQ-e-Arrays\Colecoes\bin\Debug\net6.0\Colecoes.runtimeconfig.json
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\LINQ-e-Arrays\Colecoes\bin\Debug\net6.0\Colecoes.dll
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\LINQ-e-Arrays\Colecoes\bin\Debug\net6.0\ref\Colecoes.dll
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\LINQ-e-Arrays\Colecoes\bin\Debug\net6.0\Colecoes.pdb
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\LINQ-e-Arrays\Colecoes\obj\Debug\net6.0\Colecoes.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\LINQ-e-Arrays\Colecoes\obj\Debug\net6.0\Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\LINQ-e-Arrays\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\LINQ-e-Arrays\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\LINQ-e-Arrays\Colecoes\obj\Debug\net6.0\Colecoes.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\LINQ-e-Arrays\Colecoes\obj\Debug\net6.0\Colecoes.dll
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\LINQ-e-Arrays\Colecoes\obj\Debug\net6.0\ref\Colecoes.dll
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\LINQ-e-Arrays\Colecoes\obj\Debug\net6.0\Colecoes.pdb
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\LINQ-e-Arrays\Colecoes\obj\Debug\net6.0\Colecoes.genruntimeconfig.cache

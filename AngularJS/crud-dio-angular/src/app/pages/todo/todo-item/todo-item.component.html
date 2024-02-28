@@ -1,0 +1,13 @@
+<mat-list role="list">
+   <mat-list-item role="listitem">
+      <div [ngStyle]="{textDecoration: todo.done ? 'line-through' : 'none'}">
+         {{ todo.title }} 
+      </div>
+      <button class="m-2" (click)="markAsDone()" mat-icon-button aria-label="Example icon button with a vertical three dot icon">
+         <mat-icon>done</mat-icon>
+      </button>
+      <button (click)="removeTodo()" mat-icon-button aria-label="Example icon button with a vertical three dot icon">
+         <mat-icon>delete</mat-icon>
+      </button>
+   </mat-list-item>
+ </mat-list>

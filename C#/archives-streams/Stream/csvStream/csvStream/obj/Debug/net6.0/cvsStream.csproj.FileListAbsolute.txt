@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\csvStream\csvStream\bin\Debug\net6.0\cvsStream.exe
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\csvStream\csvStream\bin\Debug\net6.0\cvsStream.deps.json
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\csvStream\csvStream\bin\Debug\net6.0\cvsStream.runtimeconfig.json
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\csvStream\csvStream\bin\Debug\net6.0\cvsStream.dll
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\csvStream\csvStream\bin\Debug\net6.0\ref\cvsStream.dll
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\csvStream\csvStream\bin\Debug\net6.0\cvsStream.pdb
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\csvStream\csvStream\obj\Debug\net6.0\cvsStream.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\csvStream\csvStream\obj\Debug\net6.0\cvsStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\csvStream\csvStream\obj\Debug\net6.0\cvsStream.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\csvStream\csvStream\obj\Debug\net6.0\cvsStream.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\csvStream\csvStream\obj\Debug\net6.0\cvsStream.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\csvStream\csvStream\obj\Debug\net6.0\cvsStream.dll
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\csvStream\csvStream\obj\Debug\net6.0\ref\cvsStream.dll
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\csvStream\csvStream\obj\Debug\net6.0\cvsStream.pdb
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\csvStream\csvStream\obj\Debug\net6.0\cvsStream.genruntimeconfig.cache

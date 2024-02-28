@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\POO\ExemploPOO\ExemploPOO\bin\Debug\net6.0\ExemploPOO.exe
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\POO\ExemploPOO\ExemploPOO\bin\Debug\net6.0\ExemploPOO.deps.json
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\POO\ExemploPOO\ExemploPOO\bin\Debug\net6.0\ExemploPOO.runtimeconfig.json
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\POO\ExemploPOO\ExemploPOO\bin\Debug\net6.0\ExemploPOO.dll
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\POO\ExemploPOO\ExemploPOO\bin\Debug\net6.0\ref\ExemploPOO.dll
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\POO\ExemploPOO\ExemploPOO\bin\Debug\net6.0\ExemploPOO.pdb
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\POO\ExemploPOO\ExemploPOO\obj\Debug\net6.0\ExemploPOO.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\POO\ExemploPOO\ExemploPOO\obj\Debug\net6.0\ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\POO\ExemploPOO\ExemploPOO\obj\Debug\net6.0\ExemploPOO.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\POO\ExemploPOO\ExemploPOO\obj\Debug\net6.0\ExemploPOO.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\POO\ExemploPOO\ExemploPOO\obj\Debug\net6.0\ExemploPOO.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\POO\ExemploPOO\ExemploPOO\obj\Debug\net6.0\ExemploPOO.dll
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\POO\ExemploPOO\ExemploPOO\obj\Debug\net6.0\ref\ExemploPOO.dll
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\POO\ExemploPOO\ExemploPOO\obj\Debug\net6.0\ExemploPOO.pdb
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\POO\ExemploPOO\ExemploPOO\obj\Debug\net6.0\ExemploPOO.genruntimeconfig.cache

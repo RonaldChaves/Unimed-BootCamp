@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\StringReader\StringReader\bin\Debug\net6.0\StringReader.exe
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\StringReader\StringReader\bin\Debug\net6.0\StringReader.deps.json
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\StringReader\StringReader\bin\Debug\net6.0\StringReader.runtimeconfig.json
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\StringReader\StringReader\bin\Debug\net6.0\StringReader.dll
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\StringReader\StringReader\bin\Debug\net6.0\ref\StringReader.dll
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\StringReader\StringReader\bin\Debug\net6.0\StringReader.pdb
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\StringReader\StringReader\obj\Debug\net6.0\StringReader.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\StringReader\StringReader\obj\Debug\net6.0\StringReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\StringReader\StringReader\obj\Debug\net6.0\StringReader.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\StringReader\StringReader\obj\Debug\net6.0\StringReader.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\StringReader\StringReader\obj\Debug\net6.0\StringReader.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\StringReader\StringReader\obj\Debug\net6.0\StringReader.dll
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\StringReader\StringReader\obj\Debug\net6.0\ref\StringReader.dll
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\StringReader\StringReader\obj\Debug\net6.0\StringReader.pdb
+C:\Users\Cliente\Desktop\codes-dio\m5-csharp\archives-streams\Stream\StringReader\StringReader\obj\Debug\net6.0\StringReader.genruntimeconfig.cache

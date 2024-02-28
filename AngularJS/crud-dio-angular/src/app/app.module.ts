@@ -1,0 +1,47 @@
+import { NgModule } from '@angular/core';
+import { BrowserModule } from '@angular/platform-browser';
+
+import { HttpClientModule } from '@angular/common/http';
+import { AppRoutingModule } from './app-routing.module';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { MatModule } from './modules/mat/mat.module';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+
+import { AppComponent } from './app.component';
+import { HeaderComponent } from './components/header/header.component';
+import { UsersListComponent } from './pages/users/users-list/users-list.component';
+import { UserFormComponent } from './pages/users/user-form/user-form.component';
+import { DataBindingComponent } from './pages/data-binding/data-binding.component';
+import { ButtonComponent } from './components/button/button.component';
+import { TodoListComponent } from './pages/todo/todo-list/todo-list.component';
+import { TodoItemComponent } from './pages/todo/todo-item/todo-item.component';
+import { PipesExampleComponent } from './pages/pipes-example/pipes-example.component';
+import { PrintListPipe } from './pipes/print-list.pipe';
+
+
+@NgModule({
+   declarations: [
+   AppComponent,
+   HeaderComponent,
+   UsersListComponent,
+   UserFormComponent,
+   DataBindingComponent,
+   ButtonComponent,
+   TodoListComponent,
+   TodoItemComponent,
+   PipesExampleComponent,
+   PrintListPipe
+   ],
+   imports: [
+   BrowserModule,
+   AppRoutingModule,
+   HttpClientModule,
+   FormsModule,
+   ReactiveFormsModule,
+   BrowserAnimationsModule, 
+   MatModule,
+   ],
+   providers: [],
+   bootstrap: [AppComponent]
+})
+export class AppModule { }
